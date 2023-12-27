@@ -4,23 +4,22 @@
 ! public: true
 ! avatar: #ff6600
 
-$discard
-$boost=2,site=github.com/4rnald0
-$boost=2,site=lacuerda.net/Usuarios/perfil.php?dest=Arnaldo
-$boost=2,site=backtrackacademy.com/@4rn4ld0
-$boost=2,site=www.solvetic.com/user/14981-arnaldo-cruz-orellana
-$boost=2,site=mit.academia.edu/ArnaldoCruzOrellana
-$boost=2,site=cl.linkedin.com/in/arnaldocruz
-$boost=2,site=www.facebook.com/ArnaldoCruzOrellana
-$boost=2,site=www.youtube.com/@ArnaldoAndresCruzOrellana
-$boost=2,site=www.instagram.com/arnaldocruzorellana
-$boost=2,site=twitter.com/rn4ld0
-$boost=2,site=www.tiktok.com/@arnaldocruzorella
-$boost=2,site=www.pinterest.cl/acruzorellana
-$boost=2,site=www.threads.net/@arnaldocruzorellana
-$boost=2,site=soundcloud.com/arnaldocruzorellana
-$boost=2,site=www.meetup.com/es/members/269278061
-$boost=2,site=music.apple.com/profile/ArnaldoCruzOrellana
+$boost=2,site=github.com
+$boost=2,site=lacuerda.net
+$boost=2,site=backtrackacademy.com
+$boost=2,site=www.solvetic.com
+$boost=2,site=mit.academia.edu
+$boost=2,site=cl.linkedin.com
+$boost=2,site=www.facebook.com
+$boost=2,site=www.youtube.com
+$boost=2,site=www.instagram.com
+$boost=2,site=twitter.com
+$boost=2,site=www.tiktok.com
+$boost=2,site=www.pinterest.cl
+$boost=2,site=www.threads.net
+$boost=2,site=soundcloud.com
+$boost=2,site=www.meetup.com
+$boost=2,site=music.apple.com
 $boost=2,site=arnaldocruzorellana.blogspot.com
-$boost=2,site=es.scribd.com/user/521791026/Arnaldo-Cruz-Orellana
-$boost=2,site=www.imdb.com/user/ur169439621/?ref_=nv_usr_prof_2
+$boost=2,site=es.scribd.com
+$boost=2,site=www.imdb.com
