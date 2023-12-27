@@ -1,7 +1,7 @@
-! name: Arnaldo Testing
+! name: Arnaldo Cruz Orellana | Brave Developer
 ! description: Prioritizes domains popular with the 4rnald0 News community, minus those that would rank among the top 1000 most-viewed websites.
 ! author: 4rnald0
-! public: true
+! public: false
 ! avatar: #ff6600
 
 $boost=4,site=github.com
