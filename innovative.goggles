@@ -4,6 +4,9 @@
 ! public: false
 ! avatar: #ff6600
 
+$boost=4,site=google.com
+$boost=4,site=bing.com
+$boost=4,site=google.cl
 $boost=4,site=github.com
 $boost=4,site=lacuerda.net
 $boost=4,site=backtrackacademy.com
