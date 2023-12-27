@@ -3,24 +3,25 @@
 ! author: 4rnald0
 ! public: true
 ! avatar: #ff6600
+
 $discard
-$boost=4,site=github.com/4rnald0
-$boost=4,site=lacuerda.net/Usuarios/perfil.php?dest=Arnaldo
-$boost=4,site=es.wikipedia.org/wiki/Usuario:Arnaldo.Cruz
-$boost=4,site=backtrackacademy.com/@4rn4ld0
-$boost=4,site=www.solvetic.com/user/14981-arnaldo-cruz-orellana
-$boost=4,site=mit.academia.edu/ArnaldoCruzOrellana
-$boost=4,site=cl.linkedin.com/in/arnaldocruz
-$boost=4,site=www.facebook.com/ArnaldoCruzOrellana
-$boost=4,site=www.youtube.com/@ArnaldoAndresCruzOrellana
-$boost=4,site=www.instagram.com/arnaldocruzorellana
-$boost=4,site=twitter.com/rn4ld0
-$boost=4,site=www.tiktok.com/@arnaldocruzorella
-$boost=4,site=www.pinterest.cl/acruzorellana
-$boost=4,site=www.threads.net/@arnaldocruzorellana
-$boost=4,site=soundcloud.com/arnaldocruzorellana
-$boost=4,site=www.meetup.com/es/members/269278061
-$boost=4,site=music.apple.com/profile/ArnaldoCruzOrellana
-$boost=4,site=arnaldocruzorellana.blogspot.com
-$boost=4,site=es.scribd.com/user/521791026/Arnaldo-Cruz-Orellana
-$boost=4,site=www.imdb.com/user/ur169439621/?ref_=nv_usr_prof_2
+$boost=1,site=github.com/4rnald0
+$boost=1,site=lacuerda.net/Usuarios/perfil.php?dest=Arnaldo
+$boost=1,site=es.wikipedia.org/wiki/Usuario:Arnaldo.Cruz
+$boost=1,site=backtrackacademy.com/@4rn4ld0
+$boost=1,site=www.solvetic.com/user/14981-arnaldo-cruz-orellana
+$boost=1,site=mit.academia.edu/ArnaldoCruzOrellana
+$boost=1,site=cl.linkedin.com/in/arnaldocruz
+$boost=1,site=www.facebook.com/ArnaldoCruzOrellana
+$boost=1,site=www.youtube.com/@ArnaldoAndresCruzOrellana
+$boost=1,site=www.instagram.com/arnaldocruzorellana
+$boost=1,site=twitter.com/rn4ld0
+$boost=1,site=www.tiktok.com/@arnaldocruzorella
+$boost=1,site=www.pinterest.cl/acruzorellana
+$boost=1,site=www.threads.net/@arnaldocruzorellana
+$boost=1,site=soundcloud.com/arnaldocruzorellana
+$boost=1,site=www.meetup.com/es/members/269278061
+$boost=1,site=music.apple.com/profile/ArnaldoCruzOrellana
+$boost=1,site=arnaldocruzorellana.blogspot.com
+$boost=1,site=es.scribd.com/user/521791026/Arnaldo-Cruz-Orellana
+$boost=1,site=www.imdb.com/user/ur169439621/?ref_=nv_usr_prof_2
