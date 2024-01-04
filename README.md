@@ -1,5 +1,4 @@
-# googles
-personal brave googles
+# Arnaldo Cruz Orellana | Brave Developer
 
 ![Brave Repo Head](https://treebes.com/wp-content/uploads/2019/07/1_7xgvLnTeChZ4aAzMrP79DQ.jpeg)
 
@@ -31,7 +30,6 @@ personal brave googles
 ![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/state/4rnald0/googles/1)
 ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/4rnald0/googles)
 
----
 
 ## Índice
 
